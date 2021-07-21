@@ -1,7 +1,7 @@
 # pools-chia
 收集了一些支持chia官方矿池协议的矿池
 
-
+https://miningpoolstats.stream/chia
 
 | Region |site| Pool URL |Pool Space|
 | ------------ | ------------- | ------------ | ------------- |
